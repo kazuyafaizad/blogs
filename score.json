@@ -1,1 +1,14 @@
-[51, 52, 53]
+[
+    {
+        "id": 52,
+        "category_name": "1.870 KG",
+        "players": 200,
+        "visible": false
+    },
+    {
+        "id": 51,
+        "category_name": "OPEN",
+        "players": 100,
+        "visible": false
+    }
+]
